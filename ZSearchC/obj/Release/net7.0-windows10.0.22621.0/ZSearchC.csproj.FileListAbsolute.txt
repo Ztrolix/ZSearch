@@ -1,0 +1,17 @@
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\ZSearchC.exe
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\ZSearchC.deps.json
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\ZSearchC.runtimeconfig.json
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\ZSearchC.dll
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\ZSearchC.pdb
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\ZtrolixStudios\ZSearch\ZSearchC\bin\Release\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.AssemblyInfoInputs.cache
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.AssemblyInfo.cs
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.csproj.CoreCompileInputs.cache
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.csproj.CopyComplete
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.dll
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\refint\ZSearchC.dll
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.pdb
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ZSearchC.genruntimeconfig.cache
+D:\ZtrolixStudios\ZSearch\ZSearchC\obj\Release\net7.0-windows10.0.22621.0\ref\ZSearchC.dll

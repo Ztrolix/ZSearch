@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xKj82KkXIAIW+NOdWzZKiy0HkibMF5suJ8m7r6EInc5WbNrkwCYP9qdrEwZwPFEgQySR/xb5ZmHj5FHyCkYuQ==",
+  "success": true,
+  "projectFilePath": "D:\\ZtrolixStudios\\ZSearch\\ZSearchC\\ZSearchC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xavie\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.29\\microsoft.windows.sdk.net.ref.10.0.22621.29.nupkg.sha512"
+  ],
+  "logs": []
+}
